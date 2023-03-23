@@ -13,12 +13,12 @@ To directly control the LEDs from the fader on the shown on the webpage
 a websocket ist used and data is transmitted to a certain port to control the
 lights.
 
+[![YouTube Video of usage](https://img.youtube.com/vi/ELzxMc7DaX8/0.jpg)](https://youtu.be/ELzxMc7DaX8)
+
 ## Screens
 Main Screen / Edit Screen / Programming Screen:
 
-<img src="doc/main_screen.jpg" alt="Main Screen" width="30%"/> 
-<img src="doc/edit_screen.jpg" alt="Edit Screen" width="30%"/> 
-<img src="doc/programming_screen.jpg" alt="Programming Screen" width="30%"/>
+<img src="doc/main_screen.jpg" alt="Main Screen" width="30%"/> <img src="doc/edit_screen.jpg" alt="Edit Screen" width="30%"/> <img src="doc/programming_screen.jpg" alt="Programming Screen" width="30%"/>
 
 ### Main Screen
 On the main screen the Fade mode can be selected to control each LED indiviually
@@ -46,7 +46,7 @@ happy, the name of the program can be set and the programm can be saved.
 ## Hardware
 The hardware consists of:
 * Node-MCU (ESP8266 board) ([Wikipedia](https://de.wikipedia.org/wiki/NodeMCU))
-* LEDs which can be controlled by PWM (available on [Aliexpress](https://www.aliexpress.com) using the search term "10W Underwater LED Flood Wash")
+* LEDs which can be controlled by PWM (available on [Aliexpress using the search term "10W Underwater LED Flood Wash"](https://de.aliexpress.com/w/wholesale-10W-Underwater-LED-Flood-Wash.html?SearchText=10W+Underwater+LED+Flood+Wash))
 <img src="doc/LED.jpg" alt="LED wash light" width="30%"/>
 
 ## Author
